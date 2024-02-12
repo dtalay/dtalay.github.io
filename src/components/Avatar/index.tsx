@@ -1,11 +1,7 @@
-import React from "react";
-
-
-const Avatar = (props) => (<svg
+const Avatar = () => (<svg
     xmlns="http://www.w3.org/2000/svg"
     fill="none"
     viewBox="0 0 240 243" preserveAspectRatio="xMidYMid meet"
-    {...props}
 >
     <g
         clipPath="url(#a)"
